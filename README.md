@@ -109,8 +109,10 @@ This API prevents double-booking of tables by allowing users to temporarily lock
 
 ---
 
-## 📁 Postman Collection
+## 📬 Postman Collection
 
-Import the included JSON file `Table_Reservation_Lock_API.postman_collection.json` into Postman.
+You can test all API endpoints using the Postman collection provided below:
+
+👉 [Table Reservation Collection](./postman/TableReservationCollection.json)
 
 ---
